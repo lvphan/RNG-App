@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/638335cec882afbeaba4f01a95502584/navigation-fragment-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a2729273d6a0f27a38db61877714adda/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/6e2398ddaad5ebf0ff4f96bb1f291525/navigation-ui-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0b8376a3413cd3222d453d5713c2a218/navigation-runtime-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/29f83f661fc2dd6667bf6a62be81045e/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/056692af005eb43a81b768e67cda6f87/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/faa1dd859c400b55dcb0846a251f93ef/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d6d1264606a322acaad430a08cd73cc0/navigation-common-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/4c7b721b5072a13f722c31c8ac34c844/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/55cf9b18e4e92a6a2450b1b9089a7674/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/8d00837a9a662edfca620b2fe06e78ef/navigation-ui-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0048295f936f7f8e840fd4a81778e6c3/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/1bab688942677ff64146c06c56445fcd/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/e74f6ebf6fb228831556c16a5f8510e8/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f0cd8b6ba4aa3e0c638fa9fb8f73dea8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d8f137a5aaec9aee031348d98c86a263/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/3407a73221adf6c51cee3f520aa4a99c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/48a74914606bb9b354ea95e8fb46372c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/5969ca2e3b2a44dce36474c3eb6e2c0f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/98bf9f26db8d3fa4f1d5eb4bcd998e39/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a29cc0fc55eab8801f86bbf5211d8ec3/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/3d10205c2e56b950b8bc7aaf2eaa3c38/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0a80c45c683b9cf648f25bf3f632aa02/navigation-fragment-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f2acc5ae74e5cc7d7f764260a79b0182/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/2c128e7602d6bb34e9a85ebe44318369/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a19ff9ce22cf45de56e0d74e5842eaf3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/b2015d663f7153641c4a535ba3e220fc/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ce91e6b331b7b613604b66f14f86b439/navigation-runtime-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/6b40c1b957f7d3da384324beed5ad898/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/84098cea3f134dc1dfd73f6177956bca/navigation-common-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ad984d97a6f16dadd2a562f78a6b465b/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/b829576802764278d934e69c98584a66/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d92628789da29d3dbfa2496b8e4145c1/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/bf9232b0ae0799f4d144928ab679e4bd/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/93f64e2eceef6da0e858019acddb3816/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f0a38dff74e2395c52b03bf5bc796c40/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/efbbe0368b31fe1ba8487b240152aef4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/554a3bcb675f3414c23b17dfbb898ebf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/2d39695da1f47a846517ae196242452a/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/19102a935862607a2ba809ba34d06223/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/7e89cd189b12fc5bf9b6fc925b991350/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/23428094485d958ca9d7035706a63874/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0048295f936f7f8e840fd4a81778e6c3/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0048295f936f7f8e840fd4a81778e6c3/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/e74f6ebf6fb228831556c16a5f8510e8/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/e74f6ebf6fb228831556c16a5f8510e8/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ad984d97a6f16dadd2a562f78a6b465b/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ad984d97a6f16dadd2a562f78a6b465b/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/bf9232b0ae0799f4d144928ab679e4bd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/bf9232b0ae0799f4d144928ab679e4bd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ad984d97a6f16dadd2a562f78a6b465b/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:11:9-59
+activity#com.lvphan.randomnumbergenerator.MainActivity
+ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:15:13-75
+	android:name
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/638335cec882afbeaba4f01a95502584/navigation-fragment-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/638335cec882afbeaba4f01a95502584/navigation-fragment-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a2729273d6a0f27a38db61877714adda/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a2729273d6a0f27a38db61877714adda/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/6e2398ddaad5ebf0ff4f96bb1f291525/navigation-ui-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/6e2398ddaad5ebf0ff4f96bb1f291525/navigation-ui-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0b8376a3413cd3222d453d5713c2a218/navigation-runtime-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0b8376a3413cd3222d453d5713c2a218/navigation-runtime-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/29f83f661fc2dd6667bf6a62be81045e/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/29f83f661fc2dd6667bf6a62be81045e/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/056692af005eb43a81b768e67cda6f87/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/056692af005eb43a81b768e67cda6f87/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/faa1dd859c400b55dcb0846a251f93ef/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/faa1dd859c400b55dcb0846a251f93ef/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d6d1264606a322acaad430a08cd73cc0/navigation-common-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d6d1264606a322acaad430a08cd73cc0/navigation-common-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/4c7b721b5072a13f722c31c8ac34c844/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/4c7b721b5072a13f722c31c8ac34c844/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/55cf9b18e4e92a6a2450b1b9089a7674/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/55cf9b18e4e92a6a2450b1b9089a7674/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/8d00837a9a662edfca620b2fe06e78ef/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/8d00837a9a662edfca620b2fe06e78ef/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0048295f936f7f8e840fd4a81778e6c3/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0048295f936f7f8e840fd4a81778e6c3/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/1bab688942677ff64146c06c56445fcd/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/1bab688942677ff64146c06c56445fcd/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/e74f6ebf6fb228831556c16a5f8510e8/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/e74f6ebf6fb228831556c16a5f8510e8/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f0cd8b6ba4aa3e0c638fa9fb8f73dea8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f0cd8b6ba4aa3e0c638fa9fb8f73dea8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d8f137a5aaec9aee031348d98c86a263/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d8f137a5aaec9aee031348d98c86a263/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/3407a73221adf6c51cee3f520aa4a99c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/3407a73221adf6c51cee3f520aa4a99c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/48a74914606bb9b354ea95e8fb46372c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/48a74914606bb9b354ea95e8fb46372c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/5969ca2e3b2a44dce36474c3eb6e2c0f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/5969ca2e3b2a44dce36474c3eb6e2c0f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/98bf9f26db8d3fa4f1d5eb4bcd998e39/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/98bf9f26db8d3fa4f1d5eb4bcd998e39/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a29cc0fc55eab8801f86bbf5211d8ec3/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a29cc0fc55eab8801f86bbf5211d8ec3/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/3d10205c2e56b950b8bc7aaf2eaa3c38/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/3d10205c2e56b950b8bc7aaf2eaa3c38/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0a80c45c683b9cf648f25bf3f632aa02/navigation-fragment-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/0a80c45c683b9cf648f25bf3f632aa02/navigation-fragment-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f2acc5ae74e5cc7d7f764260a79b0182/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f2acc5ae74e5cc7d7f764260a79b0182/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/2c128e7602d6bb34e9a85ebe44318369/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/2c128e7602d6bb34e9a85ebe44318369/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a19ff9ce22cf45de56e0d74e5842eaf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/a19ff9ce22cf45de56e0d74e5842eaf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/b2015d663f7153641c4a535ba3e220fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/b2015d663f7153641c4a535ba3e220fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ce91e6b331b7b613604b66f14f86b439/navigation-runtime-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ce91e6b331b7b613604b66f14f86b439/navigation-runtime-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/6b40c1b957f7d3da384324beed5ad898/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/6b40c1b957f7d3da384324beed5ad898/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/84098cea3f134dc1dfd73f6177956bca/navigation-common-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/84098cea3f134dc1dfd73f6177956bca/navigation-common-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ad984d97a6f16dadd2a562f78a6b465b/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/ad984d97a6f16dadd2a562f78a6b465b/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/b829576802764278d934e69c98584a66/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/b829576802764278d934e69c98584a66/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d92628789da29d3dbfa2496b8e4145c1/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/d92628789da29d3dbfa2496b8e4145c1/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/bf9232b0ae0799f4d144928ab679e4bd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/bf9232b0ae0799f4d144928ab679e4bd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/93f64e2eceef6da0e858019acddb3816/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/93f64e2eceef6da0e858019acddb3816/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f0a38dff74e2395c52b03bf5bc796c40/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/f0a38dff74e2395c52b03bf5bc796c40/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/efbbe0368b31fe1ba8487b240152aef4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/efbbe0368b31fe1ba8487b240152aef4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/554a3bcb675f3414c23b17dfbb898ebf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/554a3bcb675f3414c23b17dfbb898ebf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/2d39695da1f47a846517ae196242452a/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/2d39695da1f47a846517ae196242452a/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/19102a935862607a2ba809ba34d06223/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/19102a935862607a2ba809ba34d06223/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/7e89cd189b12fc5bf9b6fc925b991350/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/7e89cd189b12fc5bf9b6fc925b991350/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/23428094485d958ca9d7035706a63874/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/lvphan/.gradle/caches/transforms-2/files-2.1/23428094485d958ca9d7035706a63874/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lvphan/AndroidStudioProjects/RandomNumberGenerator/app/src/main/AndroidManifest.xml
